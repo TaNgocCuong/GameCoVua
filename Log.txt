@@ -1,0 +1,1720 @@
+white
+bR -- bB -- bK -- -- wB 
+-- -- -- -- bQ -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+114
+bR bN bB bQ bK bB bN bR 
+bp bp bp bp bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+wp wp wp wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+bp bp bp bp bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+wp -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- wp wp wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp bp bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- -- -- -- -- -- 
+wp -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- wp wp wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp bp bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- -- -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- wp -- wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- wp -- wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- wp -- wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- wp -- wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- wp -- wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- -- 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- wp -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp bp bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- -- -- bp 
+wp wp wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- bp -- bp 
+wp wp wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- bp -- bp 
+wp wp wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- bp -- bp 
+wp wp wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- bp -- bp 
+wp wp wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- bp -- bp 
+wp wp wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- bp -- bp 
+wp wp wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- bp -- 
+-- -- -- -- -- -- -- -- 
+bp -- -- bp -- bp -- bp 
+wp wp wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- -- -- 
+-- -- -- -- -- -- bp -- 
+bp -- -- bp -- bp -- bp 
+wp wp wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+-- bp bp -- bp -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- bp -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- bp -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- bp -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- bp -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- bp -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- bp -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- bp -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wB -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB bN -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- wB -- -- bR 
+-- -- -- -- -- bN bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- -- -- -- bR 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- -- -- -- bR 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp -- -- -- -- bR 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- -- 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- wB bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp bp bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- -- bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+wR wN -- wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wR -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- bR -- -- -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wR -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+wR -- -- -- wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK bB -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp -- 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK -- -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp bB 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK -- -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp bB 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK -- -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp bB 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR wp -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK -- -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp bB 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- wp -- -- -- 
+-- -- -- wR -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK -- -- wB 
+-- bp -- -- -- bR -- -- 
+-- -- -- -- -- -- bp bB 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- wp -- -- -- 
+-- -- -- wR -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+-- bp -- -- -- -- bp bB 
+wp -- bp bp -- bp -- bp 
+wp -- wp -- wp -- -- -- 
+-- -- -- wR -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR bN bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+-- bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- wR -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- -- bR -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- bR -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- bR -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- bR -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- bR -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- wR -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB bQ bK -- -- wB 
+-- -- -- -- wR -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+black
+false
+true
+false
+false
+false
+true
+bR -- bB -- bK -- -- wB 
+-- -- -- -- bQ -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB -- bK -- -- wB 
+-- -- -- -- bQ -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB -- bK -- -- wB 
+-- -- -- -- bQ -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB -- bK -- -- wB 
+-- -- -- -- bQ -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB -- bK -- -- wB 
+-- -- -- -- bQ -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB -- bK -- -- wB 
+-- -- -- -- bQ -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true
+bR -- bB -- bK -- -- wB 
+-- -- -- -- bQ -- -- -- 
+bN bp -- -- -- -- bp bB 
+wp -- bp bp -- wp -- bp 
+wp -- wp -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- wp -- wp wp wp 
+-- wN -- wQ wK wB wN wR 
+white
+false
+true
+false
+false
+false
+true

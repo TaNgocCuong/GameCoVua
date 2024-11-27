@@ -1,0 +1,55 @@
+black
+bR bN bB bQ bK bB bN bR 
+bp bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+-- -- -- bp wp -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+wp wp wp wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+3
+bR bN bB bQ bK bB bN bR 
+bp bp bp bp bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+wp wp wp wp wp wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+bp bp bp bp bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- -- -- -- -- -- 
+wp wp wp wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+black
+false
+false
+false
+false
+false
+false
+bR bN bB bQ bK bB bN bR 
+bp bp bp -- bp bp bp bp 
+-- -- -- -- -- -- -- -- 
+-- -- -- bp -- -- -- -- 
+-- -- -- -- wp -- -- -- 
+-- -- -- -- -- -- -- -- 
+wp wp wp wp -- wp wp wp 
+wR wN wB wQ wK wB wN wR 
+white
+false
+false
+false
+false
+false
+false
